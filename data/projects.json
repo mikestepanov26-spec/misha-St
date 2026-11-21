@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Первый сайт на GitHub Pages",
+    "description": "Многостраничный учебный сайт на HTML, CSS и Bootstrap.",
+    "link": "https://mikestepanov26-spec.github.io/misha-St/"
+  },
+  {
+    "title": "Форма обратной связи",
+    "description": "Проверка заполнения полей и email на JavaScript без перезагрузки.",
+    "link": "contacts.html"
+  },
+  {
+    "title": "Динамический список из JSON",
+    "description": "Эти карточки подгружаются из data/projects.json через fetch().",
+    "link": "about.html"
+  }
+]
